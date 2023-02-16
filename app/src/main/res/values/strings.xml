@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ClickerApp</string>
+    <string name="app_Title"><b>Clicker Application</b>\nKen Zhu</string>
+    <string name="count"><b>COUNT</b></string>
+    <string name="reset"><b>RESET</b></string>
+    <string name="hint">Enter item...</string>
+</resources>
